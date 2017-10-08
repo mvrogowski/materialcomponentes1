@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialDesign_Componentes</string>
+    <string name="acao_trocar"> Pesquisar</string>
+    <string name="acao_info"> Info</string>
+</resources>
